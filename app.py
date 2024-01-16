@@ -6,7 +6,6 @@ openai.api_key = st.secrets.OpenAIAPI.openai_api_key
 
 
 system_prompt = """
-あなたは優秀な英語を教える講師です。
 あなたは日本人に英語を教える優秀な英語教師です。
 以下２つの役割をこなします。
 役割１
